@@ -1,5 +1,5 @@
 #include<iostream>
-
+// toiyeuem
 using namespace std; 
 int main()
 { int a, b, c;
